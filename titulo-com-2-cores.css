@@ -1,0 +1,9 @@
+h1 span {
+	display: inline-block;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	background: linear-gradient(to bottom, #1abc9c 50%,#3498db 50%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
